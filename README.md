@@ -5,8 +5,8 @@ It's a easy way to search something from javadoc with pre-compiled full text ind
 
 # Requirements
 
-- Ruby[http://www.ruby-lang.org/] (JRuby[http://jruby.codehaus.org/] enabled)
-- HTML Help Workshop [http://msdn.microsoft.com/en-us/library/ms669985.aspx]
+- [Ruby](http://www.ruby-lang.org/) (JRuby[http://jruby.codehaus.org/] enabled)
+- [HTML Help Workshop](http://msdn.microsoft.com/en-us/library/ms669985.aspx)
 
 # How to
 
